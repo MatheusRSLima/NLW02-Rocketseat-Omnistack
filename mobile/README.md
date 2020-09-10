@@ -48,5 +48,4 @@
 
 <br />
 
-[Estilo das Abas](https://www.notion.so/Ajustando-estilo-das-abas-no-iOS-28a059b0c443405da195f0ebf7307905)
-[Ajuste do useFocusEffect](https://www.notion.so/Ajuste-do-useFocusEffect-86f2550799ad4caeb347597e1ffb0b1d)
+
