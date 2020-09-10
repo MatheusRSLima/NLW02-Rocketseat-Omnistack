@@ -25,15 +25,8 @@ Tabela de conteúdos
       * [Front-End Mobile](https://github.com/EmmanuellaAlbuquerque/proffy/tree/master/mobile#como-rodar)
    * [Tecnologias](#hammer-Tecnologias)
 
-<h4 align="center"> 
-	🚧  Projeto 🚀 em construção...  🚧
-</h4>
-
 ### WebMobile
 
-<div align="center">
-<img src="images/webMobile.gif" alt="mobile web gif">
-</div>
 
 ### Sobre
 Aplicação criada durante a semana Next Level Week, evento da plataforma Rocketseat. O projeto visa estabelecer contato entre alunos e professores. O professor cadastra a matéria que deseja dar aula, o dia da semana e o horário da aula que melhor atende ao seu cronograma, com isso os alunos podem entrar em contato realizando conexões.
